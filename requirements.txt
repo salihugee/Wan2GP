@@ -31,7 +31,7 @@ pyannote.audio==3.3.2
 torchcodec
 
 # UI & interaction
-gradio==4.44.1
+gradio==5.49.1
 dashscope
 loguru
 s3tokenizer
